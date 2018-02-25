@@ -1,3 +1,2 @@
-# creating-intersection-VaccarelloM
-creating-intersection-VaccarelloM created by GitHub Classroom
+Creating an Intersection
 Matthew Vaccarello
